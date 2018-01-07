@@ -1,0 +1,149 @@
+body {
+    background-color: black;
+    font-family: Lobster;
+    text-align: center;
+    color: white;
+  }
+  
+  .container-fluid {
+    background-color: black;
+  }
+  .navbar {
+    padding-top: 1%;
+    font-size: 1.5em;
+  }
+  
+  .navbar-inverse {
+    background-color: black;
+    color: #337ab7;
+  }
+  
+  .icon-bar {
+    background-color: #337ab7;
+  }
+  
+  .homePage .block h1 {
+    padding: 50;
+    margin-top: 0px;
+    color: white;
+    font-size: 6em;
+    padding-top: 10%;
+  }
+  
+  .homePage .block h3 {
+    font-family: "Open Sans";
+  }
+  
+  .homePage .btnList {
+    padding-top: 1em;
+  }
+  
+  .nav-pills {
+    font-size: 1.7em;
+  }
+  
+  .btn-default {
+    background-color: black;
+    border-color: black;
+    border-radius: 25%;
+    color: #337ab7;
+    font-size: 1.7em;
+  }
+  
+  .homePage {
+    background:url("img/homePage.jpg");
+    background-size: cover;
+    padding: 5% 10% 40% 10%;
+    color: white;
+  }
+  
+  .aboutPage {
+    background:url("img/aboutPage.jpg");
+    background-size: cover;
+    color: white;
+    padding: 0% 10%
+  }
+  
+  .aboutPage .block .exp h1 {
+    padding-top: 3em;
+    color: #337ab7;
+    font-size: 3em;
+  }
+  
+  .aboutPage .block .edu h1 {
+    padding-top: 1em;
+    color: #337ab7;
+    font-size: 3em;
+  }
+  
+  .aboutPage .block .exp h3 {
+    font-size: 2em;
+    font-family: "Open Sans";
+  }
+  
+  .aboutPage .block .edu h3 {
+    font-size: 2em;
+    font-family: "Open Sans";
+  }
+  
+  .edu {
+    padding-bottom: 15%;
+  }
+  
+  .projPage {
+    background:url("img/projPage.jpg");
+    background-size: cover;
+    padding: 10% 5% 20% 5%;
+  }
+  
+  .projPage h2 {
+    color: #337ab7;
+    font-size: 3.3em;
+    padding-top: 2%;
+    font-family: "Open Sans";
+  }
+  
+  .projPage p {
+    font-family: "Open Sans";
+  }
+  
+  .outerpadding {
+    padding: 5em 5em;
+  }
+  
+  .boximg {
+      position: relative;
+      overflow: hidden;
+  }
+      
+  .boximg img {
+      transition: all ease-in 500ms;
+      border: 1px solid #fff;
+    width: 130px;
+    height: 100px;
+  }
+  
+  .boximg img:hover {
+      transform: scale(1.5,1.5);
+      cursor: pointer;
+  }	
+  
+  .contPage {
+    background:url("img/contPage.jpg");
+    background-size: cover;
+    padding: 15% 5% 45% 5%;
+    font-family: "Open Sans";
+  }
+  
+  .contPage .btnList {
+    padding-top: 5%;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
